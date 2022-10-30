@@ -4,6 +4,9 @@
 - Edit this markdown file after making a valid contribution
 - Add details like name, college and programming language of contribution and raise the PR
 ```
+### Zain Ali Shah
+
+- Python
 
 ### Aman
 
